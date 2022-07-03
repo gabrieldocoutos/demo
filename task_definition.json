@@ -25,7 +25,7 @@
           "containerPort": 80
         }
       ],
-      "command": [""],
+      "command": null,
       "linuxParameters": null,
       "cpu": 256,
       "environment": [],
